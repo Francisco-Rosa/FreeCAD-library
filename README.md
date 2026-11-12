@@ -27,7 +27,7 @@ should also be mentioned, and the license information if available.
 **Note**: Please DO NOT use accented characters in your file names, thanks!!!
 
 If you are interested in contributing to this library on a more long-term basis, please ask for write 
-access to this repository on this FreeCAD forum thread: http://forum.freecadweb.org/viewtopic.php?f=19&t=4205
+access to this repository on this FreeCAD forum thread: http://forum.freecad.org/viewtopic.php?f=19&t=4205
 
 License
 -------
@@ -68,7 +68,7 @@ anywhere and import its files in your FreeCAD projects. Inside the library, ther
 macro (PartsLibrary.FCMacro) that you can place in your FreeCAD macros folder. That macro creates 
 a browser window inside FreeCAD, from which you can easily add the parts by double-clicking them.
 
-![](http://www.freecadweb.org/wiki/images/c/c5/Parts-library.jpg)
+![](http://www.freecad.org/wiki/images/c/c5/Parts-library.jpg)
 Usage
 -----
 
